@@ -1,0 +1,12 @@
+
+A mapping package for Matlab was downloaded from: https://www.eoas.ubc.ca/~rich/map.html
+A colorbar package for Matlab was downloaded from: http://colorbrewer2.org/
+
+User Guide of how to install and use the m_map package can be found at: https://www.eoas.ubc.ca/~rich/mapug.html#intro 
+
+
+Figures 1, 2, 3, 5, and Extended Figures 2 were created based on the m_map package.
+
+We acknowledge the work and contribution done by:
+
+Pawlowicz, R., 2020. "M_Map: A mapping package for MATLAB", version 1.4m, [Computer software], available online at www.eoas.ubc.ca/~rich/map.html.
